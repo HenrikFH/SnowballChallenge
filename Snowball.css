@@ -4,10 +4,14 @@
 	text-align: center;
 	font-family: Palatino Linotype, Book Antiqua, Palatino, sans-serif;
 	font-size: 10em;
+    background-color: Green;
 }
 
 
 .Underskrift {
+    text-align: center;
+    font-family: Palatino Linotype, Book Antiqua, Palatino, sans-serif;
+    font-size: 7em;
 
 
 }
@@ -15,18 +19,20 @@
 background-color: White;
 
 }
-
+.navbar {
+    text-align: center;
+}
 .navbar a {
 	text-align: center;
-	color: white;
+	color: White;
     font-family: Garamond;
     font-size: 20px;
     font-weight: bold;
     padding-right: 50px;
-    background-color: black;
+    background-color: Green;
     text-decoration: none;
     border:10px;
-    border-color: White;
+    border-color: Green;
 }
 
 .navbar a:hover {
