@@ -49,5 +49,14 @@ color: Black;
 }
 
 #ForsideTekst{
-    
+    color: #4D4B4C;
+    text-align: left;
+    font-family: Garamond;
+    line-height:1.5;
+    border: 3px #4D4B4C;
+    width: 400px;
+    position: absolute;
+    left: 650px;
+    margin-top: 40px;
+
 }
