@@ -1,13 +1,11 @@
 
 .Overskrift{
-	color: #FBCF56;
+	color: #4D4B4C;
 	text-align: center;
 	font-family: Palatino Linotype, Book Antiqua, Palatino, sans-serif;
 	font-size: 3.5em;
     margin: auto;
-    background-color: Green;
-    
-
+    background-color: #30E171;
 
 }
 
@@ -33,11 +31,11 @@ background-color: White;
     font-size: 20px;
     font-weight: bold;
     padding-right: 50px;
-    background-color: Green;
+    background-color: #30E171;
     text-decoration: none;
     border:10px;
     margin: auto;
-    border-color: Green;
+    border-color: #30E171;
 }
 
 .navbar a:hover {
@@ -50,3 +48,6 @@ background-color: white;
 color: Black;
 }
 
+#ForsideTekst{
+    
+}
