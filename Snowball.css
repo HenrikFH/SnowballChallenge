@@ -53,10 +53,12 @@ color: Black;
     text-align: left;
     font-family: Garamond;
     line-height:1.5;
-    border: 3px #4D4B4C;
+    border: solid 2px #30E171;
     width: 400px;
-    position: absolute;
-    left: 650px;
-    margin-top: 40px;
+    margin:auto;
+    padding: 10px;
+}
 
+#Tekstdiv{
+    padding-top: 30px;
 }
