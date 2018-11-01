@@ -1,0 +1,36 @@
+.Overskrift {
+
+
+}
+
+.Underskrift {
+
+
+}
+.body {
+background-color: White;
+
+}
+
+.navbar a {
+	text-align: center;
+	color: white;
+    font-family: Garamond;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 50px;
+    background-color: black;
+    text-decoration: none;
+    border:10px;
+    border-color: White;
+}
+
+.navbar a:hover {
+	background-color: white;
+    color: Black;
+}
+
+.navbar a.active {
+background-color: white;
+color: Black;
+}
