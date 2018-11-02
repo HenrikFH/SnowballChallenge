@@ -6,7 +6,11 @@
 	font-size: 3.5em;
     margin: auto;
     background-color: #30E171;
+    padding: 20px;
 
+}
+.overskriftBackground {
+background-color: #30E171;
 }
 
 
@@ -18,13 +22,10 @@
 
 
 }
-body {
+.body {
 background-color: #EADDDD;
 }
-.white {
-    background-color: White;
-}
-}
+
 .navbar {
     text-align: center;
     background-color: White;
