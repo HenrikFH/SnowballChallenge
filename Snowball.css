@@ -24,7 +24,7 @@ background-color: #30E171;
 }
 .body1 {
 background-color: #EADDDD;
-padding-bottom: 344px;
+padding-bottom: 500px;
 margin:auto;
 }
 
@@ -77,4 +77,24 @@ color: Black;
 
 #Tekstdiv{
     padding-top: 30px;
+}
+
+.Img {
+    position: absolute;
+    left: 450px;
+    padding-top: 40px;
+
+}
+
+.text {
+    color: #4D4B4C;
+    text-align: left;
+    font-family: Garamond;
+    line-height:1.5;
+    border: solid 2px #30E171 ;
+    width: 400px;
+    position: absolute;
+    left: 30px;
+    margin-top: 40px;
+
 }
