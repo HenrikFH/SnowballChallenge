@@ -39,21 +39,21 @@ padding-top: 20px;
     font-weight: bold;
     padding-right: 50px;
     background-color: #30E171;
-    text-decoration: none;
+    text-decoration: none;D
     border:10px;
     margin: auto;
     border-color: #30E171;
 }
 
 .navbar a:hover {
-	background-color: #E3DFDF;
+	background-color: #EADDDD;
     color: Black;
     border: 3px;
     border-color: #30E171 ;
 }
 
 .navbar a.active {
-background-color: #E3DFDF;
+background-color: #EADDDD;
 color: Black;
 }
 
