@@ -79,10 +79,11 @@ color: Black;
     padding-top: 30px;
 }
 
-.Img {
+img {
     position: absolute;
     left: 450px;
     padding-top: 40px;
+    width: 50px
 
 }
 .logo {
