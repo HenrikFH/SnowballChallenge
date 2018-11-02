@@ -1,0 +1,64 @@
+
+.Overskrift{
+	color: #4D4B4C;
+	text-align: center;
+	font-family: Palatino Linotype, Book Antiqua, Palatino, sans-serif;
+	font-size: 3.5em;
+    margin: auto;
+    background-color: #30E171;
+
+}
+
+
+.Underskrift {
+    text-align: center;
+    font-family: Palatino Linotype, Book Antiqua, Palatino, sans-serif;
+    font-size: 1.5em;
+
+
+}
+.body {
+background-color: White;
+
+}
+.navbar {
+    text-align: center;
+}
+.navbar a {
+	text-align: center;
+	color: White;
+    font-family: Garamond;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 50px;
+    background-color: #30E171;
+    text-decoration: none;
+    border:10px;
+    margin: auto;
+    border-color: #30E171;
+}
+
+.navbar a:hover {
+	background-color: white;
+    color: Black;
+}
+
+.navbar a.active {
+background-color: white;
+color: Black;
+}
+
+#ForsideTekst{
+    color: #4D4B4C;
+    text-align: left;
+    font-family: Garamond;
+    line-height:1.5;
+    border: solid 2px #30E171;
+    width: 400px;
+    margin:auto;
+    padding: 10px;
+}
+
+#Tekstdiv{
+    padding-top: 30px;
+}
