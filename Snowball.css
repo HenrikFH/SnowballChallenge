@@ -85,6 +85,11 @@ color: Black;
     padding-top: 40px;
 
 }
+.logo {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+}
 
 .text {
     color: #4D4B4C;
