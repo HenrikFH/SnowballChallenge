@@ -11,6 +11,11 @@
 }
 .overskriftBackground {
 background-color: #30E171;
+border-top: 3px;
+border-color: #30E171;
+top: 0;
+right: 0;
+left: 0;
 }
 
 
