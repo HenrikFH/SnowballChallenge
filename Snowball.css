@@ -22,9 +22,16 @@ background-color: #30E171;
 
 
 }
-.body {
+.body1 {
 background-color: #EADDDD;
-padding-bottom: 200px;
+padding-bottom: 344px;
+margin:auto;
+}
+
+.body2 {
+background-color: #EADDDD;
+padding-bottom: 150px;
+margin:auto;
 }
 
 .navbar {
