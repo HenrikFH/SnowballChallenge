@@ -2,7 +2,7 @@
 .Overskrift{
 	color: #4D4B4C;
 	text-align: center;
-	font-family: Palatino Linotype, Book Antiqua, Palatino, sans-serif;
+	font-family: Garamond, sans-serif;
 	font-size: 3.5em;
     margin: auto;
     background-color: #30E171;
@@ -16,7 +16,7 @@ background-color: #30E171;
 
 .Underskrift {
     text-align: center;
-    font-family: Palatino Linotype, Book Antiqua, Palatino, sans-serif;
+    font-family: Garamond, sans-serif;
     font-size: 1.5em;
     background-color: White;
 
@@ -41,7 +41,7 @@ margin:auto;
 .navbar a {
 	text-align: center;
 	color: White;
-    font-family: Garamond;
+    font-family: Garamond, sans-serif;
     font-size: 20px;
     font-weight: bold;
     padding-right: 50px;
@@ -64,28 +64,33 @@ background-color: #EADDDD;
 color: Black;
 }
 
-#ForsideTekst{
+.OmossTekst{
     color: #4D4B4C;
     text-align: left;
-    font-family: Garamond;
+    font-family: Source Sans Pro, sans-serif;
     line-height:1.5;
-    border: solid 2px #30E171;
+    /*border: solid 2px #30E171;*/
     width: 400px;
-    margin:auto;
     padding: 10px;
+    
 }
 
 #Tekstdiv{
     padding-top: 30px;
 }
 
-img {
+.Img {
     position: absolute;
     left: 450px;
     padding-top: 40px;
     width: 50px
-
 }
+.Img2 {
+    position: absolute;
+    right: 50px;
+    padding-top: 40px;
+}
+
 .logo {
     position: absolute;
     left: 100px;
