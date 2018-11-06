@@ -89,15 +89,16 @@ img {
 .logo {
     position: absolute;
     left: 100px;
-    top: 10px;
+    top: 15px;
+    padding: 0px;
 }
 
 .text {
     color: #4D4B4C;
     text-align: left;
-    font-family: Garamond;
+    font-family: Source Sans Pro, sans-serif;
     line-height:1.5;
-    border: solid 2px #30E171 ;
+    /*border: solid 2px #30E171 ;*/
     width: 400px;
     position: absolute;
     left: 30px;
