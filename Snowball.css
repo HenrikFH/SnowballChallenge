@@ -72,7 +72,8 @@ color: Black;
     /*border: solid 2px #30E171;*/
     width: 400px;
     padding: 10px;
-    
+    margin-left: 15px;
+
 }
 
 #Tekstdiv{
@@ -89,6 +90,7 @@ color: Black;
     position: absolute;
     right: 50px;
     padding-top: 40px;
+
 }
 
 .logo {
