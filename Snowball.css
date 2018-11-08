@@ -42,13 +42,13 @@ margin:auto;
 	text-align: center;
 	color: White;
     font-family: Garamond, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     padding-right: 50px;
     padding-top: 10px;
-    padding-bottom: 10px;
+   /* padding-bottom: 5px;*/
     background-color: #30E171;
-    text-decoration: none;D
+    text-decoration: none;
     border:10px;
     margin: auto;
     border-color: #30E171;
