@@ -4,13 +4,14 @@
 	text-align: center;
 	font-family: Garamond, sans-serif;
 	font-size: 3.5em;
-    margin: auto;
+    margin-right: auto;
     background-color: #30E171;
     padding: 20px;
 
 }
 .overskriftBackground {
 background-color: #30E171;
+margin: 0%;
 }
 
 
@@ -22,10 +23,15 @@ background-color: #30E171;
 
 
 }
+body {
+    margin-left: 0%;
+    margin-right: 0%;
+    position: relative;
+}
 .body1 {
 background-color: #EADDDD;
 padding-bottom: 500px;
-margin:auto;
+margin-right:auto;
 }
 
 .body2 {
@@ -80,13 +86,30 @@ color: Black;
 
 #Tekstdiv{
     padding-top: 30px;
+    width: 40%;
+    position: relative;
+    margin-right:0%;
+    display: inline-block;
+
 }
 
 .Img {
-    position: absolute;
-    left: 450px;
-    padding-top: 40px;
-    width: 50px
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-left: 45%;
+    padding-top: 4%;
+    padding-right: 2%;
+    position: relative;
+    vertical-align: middle;
+    display: inline-block;
+}
+.Imgblock {
+    display: inline-block;
+    position: relative;
+    margin-left: 0%;
+    width: 50%;
+    vertical-align: top;
+    float: right;
 }
 .Img2 {
     position: absolute;
@@ -108,9 +131,9 @@ color: Black;
     font-family: Source Sans Pro, sans-serif;
     line-height:1.5;
     /*border: solid 2px #30E171 ;*/
-    width: 400px;
-    position: absolute;
-    left: 30px;
+    width: 100%;
+    position: relative;
+    left: 3%;
     margin-top: 40px;
 
 }
